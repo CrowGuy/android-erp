@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmallErp</string>
+    <string name="company_name">SMALLERP</string>
+    <string name="manage_name">管理功能</string>
+    <string name="login_name">登入頁面</string>
+    <string name="client_basic">客戶基本檔</string>
+    <string name="client_basic_view">客戶基本檔(檢視)</string>
+    <string name="client_basic_select">客戶清單</string>
+    <string name="product_basic">品項基本檔</string>
+    <string name="product_basic_view">品項基本檔(檢視)</string>
+    <string name="product_basic_select">品項清單</string>
+    <string name="user_manage">帳戶管理</string>
+    <string name="user_manage_view">帳戶清單(檢視)</string>
+    <string name="inventory_basic">庫存基本檔</string>
+    <string name="inventory_basic_view">庫存基本檔(檢視)</string>
+    <string name="inventory_in">庫存清單(編輯)</string>
+    <string name="error_message_account">輸入正確的帳號</string>
+    <string name="error_message_password">輸入正確的密碼</string>
+</resources>

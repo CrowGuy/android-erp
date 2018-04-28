@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <EditText
+        android:id="@+id/editTextAccountToLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="帳戶名稱"
+        android:ems="10" >
+    </EditText>
+    <EditText
+        android:id="@+id/editTextPasswordToLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="帳戶密碼"
+        android:ems="10" >
+    </EditText>
+
+    <Button
+        android:id="@+id/btnSignIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登入"
+        android:textSize="30sp"/>
+
+</LinearLayout>
